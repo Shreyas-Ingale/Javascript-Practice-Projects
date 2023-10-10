@@ -28,8 +28,11 @@ To get started with these VanillaJs projects, follow these simple steps:
 3. **Choose a Project:**
 
    Browse the list of projects in this repository and choose the one you're interested in.
+   ```bash
+   cd "Project_Name"
+   ```
 
-4. **Open in Your Browser:**
+5. **Open in Your Browser:**
 
    Use Live Server (or any other extension) to see the project in action.
 
