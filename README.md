@@ -16,13 +16,13 @@ To get started with these VanillaJs projects, follow these simple steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-projects.git
+   git clone https://github.com/Shreyas-Ingale/Javascript-Practice-Projects.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd 
+   cd Javascript-Practice-Projects
    ```
 
 3. **Choose a Project:**
