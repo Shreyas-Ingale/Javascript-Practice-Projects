@@ -43,6 +43,7 @@ Here is a list of React.js projects included in this repository:
 1. **Project 1: Form Validator**
 2. **Project 2: Movie Seat Booking**
 3. **Project 3: Custom Video Player**
+4. **Project 4: Exchange Rate Calculator**
 
 ## Contributing
 
